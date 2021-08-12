@@ -1,4 +1,4 @@
-const {app, BrowserWindow} = require('electron') // http://electron.atom.io/docs/api
+const { app, BrowserWindow } = require('electron') // http://electron.atom.io/docs/api
 
 let window = null
 
@@ -20,6 +20,7 @@ app.once('ready', () => {
 
   // URL is argument to npm start
   const url = process.argv[2]
+  console.log(url)
   window.loadURL(url)
 
   // Show window when page is ready

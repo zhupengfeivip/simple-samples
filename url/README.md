@@ -10,3 +10,5 @@ passed on the command line in a window.
 - `cd url`
 - `npm install` to install the application's dependencies
 - `npm start https://github.com` to start the application and load GitHub
+
+![image](doc/1.png)
