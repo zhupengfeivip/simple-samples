@@ -5,6 +5,10 @@ doughnut chart of the CPU system, user, and idle activity time.
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/671378/20894933/3882a328-bacc-11e6-865b-4bc1c5ac7ec7.png)
 
+
+![image](https://user-images.githubusercontent.com/30720809/129156866-f9f48e6d-fc98-4fca-9e55-62c33cad3bb9.png)
+
+
 ## Getting started
 
 - Install [Node LTS](https://nodejs.org)
